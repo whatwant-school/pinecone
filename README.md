@@ -1,0 +1,2 @@
+# pinecone
+for Pinecone study
